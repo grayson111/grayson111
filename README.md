@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @grayson111
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning pyhton
-- 📫  reach me wechat:woodielee
+-Visual Designer | Web developer | 3D Render 
 
